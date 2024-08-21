@@ -1,6 +1,6 @@
-All files within this repository are required for the website pages to work.
+All files within this repository are required for each of the pages of the website to work.
 
-The 7 files within the images folder, are for the images on the website to be displayed. All characters, and backgrounds within the images shown on the site (exception being the screenshot of the wackamole game) were all rendered in the program Blender.
+All files within the images folder, are for the images on the website to be displayed. All characters, and backgrounds within the images shown on the site (exception being the screenshot of the wackamole game) were all rendered in the program Blender.
 
 The slideshow transitions are operated from the code within file, slideshow.css. Said file that is responsible for the special graphics, and graphic effects of the slideshow page itself.
 
@@ -10,6 +10,10 @@ The other two pages of the website, Games HTML & checkersgame_html, have their o
 
 The index html page has its own respected CSS file, Style.css that operates the special graphic effects on that page.
 
-he newest page added, The Wackmole Game Page HTML, has its own CSS file and JavaScript file, Event.css and Mole.js, that it calls from to create the game that is displayed on its page.
+The Wackmole Game Page HTML, has its own CSS file and JavaScript file, Event.css and Mole.js, that it calls from to create the game that is displayed on its page.
 
-Lastly, both the checkersgame HTML and the Wackamole game HTML are accessed via two clickable images that are on the games page.
+The contact page has its own HTML and css file that it uses to display all content of that specific page.
+
+The final page added, the rock, paper, scissors game has its own css, and JavaScript file that it uses as well that are responsible for the entire game to be displayed on the website.
+
+Lastly,  the checkersgame HTML, the Wackamole game HTML and the rock, paper, scissors game HTML are accessed via the three clickable images that are on the games page.
